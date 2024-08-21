@@ -1,2 +1,2 @@
-# myst-launcher-release
+# myst-nodes-launcher-release
 MystNodes launcher release
